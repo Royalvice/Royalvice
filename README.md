@@ -7,3 +7,20 @@
 
 # LEETCODE Rank ![](https://leetcode-badge.haozibi.dev/v1cn/ranking/Royalvice.svg)  ![](https://leetcode-badge.haozibi.dev/v1cn/solved/Royalvice.svg) ![](https://leetcode-badge.haozibi.dev/v1cn/accepted-rate/Royalvice.svg)![](https://stats.justsong.cn/api/leetcode?username=Royalvice&cn=true&theme=dark)
 ![](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/Royalvice.svg)
+
+# Research Interests
+<!-- 树状结构 -->
+- **Low-level Computer Vision**
+  - **Image Generation**
+  - **Image Enhancement**
+  - **Image Restoration**
+  - **Diffusion Models & GANs**
+- **Computer Graphics**
+  - **3D Reconstruction**
+  - **3D Rendering**
+  - **3D Human Body Reconstruction**
+  - **3D Human Body Rendering**
+  - **Neural Rendering**
+  - **Neural Radiance Fields**
+
+
