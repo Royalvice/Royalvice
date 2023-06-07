@@ -12,15 +12,11 @@
 <!-- 树状结构 -->
 - **Low-level Computer Vision**
   - **Image Generation**
-  - **Image Enhancement**
   - **Image Restoration**
   - **Diffusion Models & GANs**
 - **Computer Graphics**
-  - **3D Reconstruction**
   - **3D Rendering**
-  - **3D Human Body Reconstruction**
-  - **3D Human Body Rendering**
+  - **3D Human**
   - **Neural Rendering**
-  - **Neural Radiance Fields**
 
 
