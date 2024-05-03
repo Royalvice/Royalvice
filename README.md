@@ -18,5 +18,7 @@
   - **3D Rendering**
   - **3D Human**
   - **Neural Rendering**
+- **Hardware**
+  - **Light Field Displays**
 
 
