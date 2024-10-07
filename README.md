@@ -16,8 +16,5 @@
   - **Neural Rendering**
 - **Hardware**
   - **Light Field Displays**
- 
-# LEETCODE Rank ![](https://leetcode-badge.haozibi.dev/v1cn/ranking/Royalvice.svg)  ![](https://leetcode-badge.haozibi.dev/v1cn/solved/Royalvice.svg) ![](https://leetcode-badge.haozibi.dev/v1cn/accepted-rate/Royalvice.svg)![](https://stats.justsong.cn/api/leetcode?username=Royalvice&cn=true&theme=dark)
-![](https://leetcode-badge.haozibi.dev/v1cn/chart/submission-calendar/Royalvice.svg)
 
 
