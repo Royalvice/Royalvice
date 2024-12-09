@@ -6,15 +6,9 @@
 
 # Research Interests
 <!-- 树状结构 -->
-- **Low-level Computer Vision**
-  - **Image Generation**
-  - **Image Restoration**
-  - **Diffusion Models & GANs**
-- **Computer Graphics**
-  - **3D Rendering**
-  - **3D Generation**
-  - **Neural Rendering**
-- **Hardware**
-  - **Light Field Displays**
+- **3D Generation**
+- **3D Drive**
+- **3D Displays**
+
 
 
