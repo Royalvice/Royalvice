@@ -12,7 +12,7 @@
   - **Diffusion Models & GANs**
 - **Computer Graphics**
   - **3D Rendering**
-  - **3D Human**
+  - **3D Generation**
   - **Neural Rendering**
 - **Hardware**
   - **Light Field Displays**
